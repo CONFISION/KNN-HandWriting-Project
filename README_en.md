@@ -29,7 +29,9 @@ he regression value of the sample.
 
 ## what environment we used?
 
-> Microsoft Visual Studio 2022
+> BuildTools: MSVC cl.exe for x86_64 cmake
+>
+> Editor: JetBrains CLion
 
 ## What's lib we use?
 
