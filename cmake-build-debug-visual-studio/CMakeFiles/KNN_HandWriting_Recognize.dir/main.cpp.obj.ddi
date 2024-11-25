@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "CMakeFiles\\KNN_HandWriting_Recognize.dir\\main.cpp.obj",
+            "outputs": [
+                "C:\\code\\KNN-HandWritting-Recorgnize\\cmake-build-debug-visual-studio\\vc140.pdb",
+                "CMakeFiles\\KNN_HandWriting_Recognize.dir\\main.cpp.obj.ddi"
+            ],
+            "requires": []
+        }
+    ]
+}
