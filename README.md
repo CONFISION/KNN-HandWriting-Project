@@ -1,4 +1,4 @@
-**其他语言版本: [English](README_en), [中文](README).**
+**其他语言版本: [English](README_en.md), [中文](README.md).**
 
 # 这是一个基于 C 语言的通过 KNN 算法识别手写数字的项目。
 
