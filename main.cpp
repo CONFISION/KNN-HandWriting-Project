@@ -13,7 +13,7 @@ const int WINDOW_WIDTH = 640;
 const int WINDOW_HEIGHT = 640;
 
 // 定义画笔大小
-const int PEN_SIZE = 15;
+const int PEN_SIZE = 20;
 
 #define MAX_DIGIT 1024
 #define MAX_K 10
