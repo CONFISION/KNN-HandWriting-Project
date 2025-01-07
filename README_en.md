@@ -1,4 +1,4 @@
-**Read this in other languages: [English](README_en), [中文](README).**
+**Read this in other languages: [English](README_en.md), [中文](README.md).**
 
 # This is a project based on C++ language that uses the KNN algorithm to realize handwritten digit recognition.
 
