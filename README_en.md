@@ -35,9 +35,9 @@ he regression value of the sample.
 
 ## What's lib we use?
 
-> EasyX [Offical](https://easyx.cn/)\_
+> EasyX [Offical](https://easyx.cn/)
 >
-> dirent.h \_[Offical](https://web.archive.org/web/20170428133315/http://www.softagalleria.net/dirent.php)
+> dirent.h [Offical](https://web.archive.org/web/20170428133315/http://www.softagalleria.net/dirent.php)
 
 ## Core algorithms
 

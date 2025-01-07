@@ -20,8 +20,10 @@ const int PEN_SIZE = 20;
 #define PATH_LENTH 256
 #define DEFAULTARGS 0
 
+// 定义训练集路径
 char path[] = "trainingDigits/";
 
+// 定义测试集路径
 char defaulttestpath[] = "testDigits/";
 
 typedef struct data
